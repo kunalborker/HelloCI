@@ -1,0 +1,8 @@
+C:\Users\dvb2852\source\repos\TC-CI\HelloCI\src\app\HelloCI.Core\bin\Debug\netstandard2.0\HelloCI.Core.deps.json
+C:\Users\dvb2852\source\repos\TC-CI\HelloCI\src\app\HelloCI.Core\bin\Debug\netstandard2.0\HelloCI.Core.dll
+C:\Users\dvb2852\source\repos\TC-CI\HelloCI\src\app\HelloCI.Core\bin\Debug\netstandard2.0\HelloCI.Core.pdb
+C:\Users\dvb2852\source\repos\TC-CI\HelloCI\src\app\HelloCI.Core\obj\Debug\netstandard2.0\HelloCI.Core.csproj.CoreCompileInputs.cache
+C:\Users\dvb2852\source\repos\TC-CI\HelloCI\src\app\HelloCI.Core\obj\Debug\netstandard2.0\HelloCI.Core.AssemblyInfoInputs.cache
+C:\Users\dvb2852\source\repos\TC-CI\HelloCI\src\app\HelloCI.Core\obj\Debug\netstandard2.0\HelloCI.Core.AssemblyInfo.cs
+C:\Users\dvb2852\source\repos\TC-CI\HelloCI\src\app\HelloCI.Core\obj\Debug\netstandard2.0\HelloCI.Core.dll
+C:\Users\dvb2852\source\repos\TC-CI\HelloCI\src\app\HelloCI.Core\obj\Debug\netstandard2.0\HelloCI.Core.pdb
